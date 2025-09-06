@@ -1,0 +1,5 @@
+SpeechRecognition==3.14.3
+pyaudio==0.2.14
+pydub==0.25.1
+numpy==2.3.2
+matplotlib==3.10.6
